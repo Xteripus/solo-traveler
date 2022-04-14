@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-height: 100vh;
+    background-color: #E5E5E5;
+}
+
+a {
+    display: inline-block;
+}
