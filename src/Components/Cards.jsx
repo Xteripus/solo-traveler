@@ -6,7 +6,7 @@ function Card(props) {
         <img
           className="h-[300px] w-[220px] object-cover rounded-lg"
           src={props.imageUrl}
-          alt=""
+          alt={props.title}
         />
       </div>
       <div>
